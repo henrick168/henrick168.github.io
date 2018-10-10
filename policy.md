@@ -16,5 +16,5 @@
 ### 四、第三方API應用
 本程式中地圖相關功能使用 Google Maps API 與 Google Places API，推播通知與分析相關功能使用 Google Firebase API，站點資訊及氣象資訊相關API功能使用政府資料開放平台、氣象資料開放平台、Youbike 官網，詳情請參照 [Google 隱私權政策](https://policies.google.com/privacy)、[Firebase 中的隱私權和安全性](https://firebase.google.com/support/privacy/?hl=zh-cn)、[政府資料開放平台 隱私權政策](https://data.gov.tw/privacy)、[氣象資料開放平台 隱私權政策](http://opendata.cwb.gov.tw/privacy.htm)、[Youbike 隱私權政策](https://ntpc.youbike.com.tw/privacy/privacy)。
 
-### 四、隱私權保護政策之修正
+### 五、隱私權保護政策之修正
 本程式隱私權保護政策將因應需求隨時進行修正。
